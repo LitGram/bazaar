@@ -37,7 +37,7 @@ jobs:
       # without needing Android Studio installed on a local machine.
       - name: Initialize Capacitor Android
         run: |
-          npm install @capacitor/core @capacitor/cli @capacitor/android
+          npm install @capacitor/core @capacitor/cli @capacitor/android --legacy-peer-deps
           npx cap init "Jaitsar Bazaar" com.jaitsar.bazaar --web-dir dist
           npx cap add android
 
