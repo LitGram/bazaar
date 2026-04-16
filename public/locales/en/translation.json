@@ -1,0 +1,56 @@
+{
+  "common": {
+    "search": "Search products...",
+    "cart": "Cart",
+    "categories": "Categories",
+    "home": "Home",
+    "catalog": "Catalog",
+    "register": "Register as Vendor",
+    "admin": "Admin",
+    "language": "Hindi",
+    "agriculture": "Agriculture",
+    "grocery": "Grocery",
+    "mandi": "Mandi (Fruits/Veg)",
+    "dairy": "Dairy",
+    "medical": "Medical",
+    "hardware": "Hardware",
+    "clothing": "Clothing",
+    "electronics": "Electronics",
+    "services": "Local Services",
+    "food": "Food & Eateries",
+    "education": "Education",
+    "transport": "Transport"
+  },
+  "home": {
+    "hero_title": "Jaitsar Village Marketplace",
+    "hero_subtitle": "Everything you need from Agriculture to Kirana, available locally.",
+    "featured_products": "Top Priorities",
+    "featured_services": "Essential Services",
+    "show_more": "Show All Categories"
+  },
+  "catalog": {
+    "all_categories": "All Categories",
+    "add_to_cart": "Interested",
+    "interested": "Interested",
+    "view_details": "View Details",
+    "status": "Availability"
+  },
+  "register_form": {
+    "title": "Vendor Partner Registration",
+    "subtitle": "Join the Jaitsar Digital Market",
+    "step_1": "Owner Details",
+    "step_2": "Business Details",
+    "step_3": "Verification",
+    "full_name": "Full Name",
+    "phone": "Phone Number",
+    "address": "Village/Mohalla Address",
+    "business_name": "Shop/Business Name",
+    "business_type": "Business Category",
+    "upload_id": "Upload Government ID (Aadhaar/PAN)",
+    "submit": "Submit Application",
+    "next": "Next Step",
+    "prev": "Previous",
+    "success": "Application Submitted!",
+    "success_msg": "Our team will visit your shop for verification soon."
+  }
+}
